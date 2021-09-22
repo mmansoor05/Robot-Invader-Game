@@ -1,2 +1,3 @@
 # Robot Invader Game
-A simple game made using pygame library in pycharm.
+My take on space invader game.
+Used Pygame to develop the stage and elements within the game, implemented multiple robots, added collision details. Also maintains an active score board.
